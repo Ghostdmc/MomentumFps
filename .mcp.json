@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "unreal-mcp": {
+      "type": "http",
+      "url": "http://localhost:29074/mcp/p/5e6461a1"
+    },
+    "ai-game-developer": {
+      "type": "http",
+      "url": "https://ai-game.dev/mcp/p/5e6461a1"
+    }
+  }
+}
